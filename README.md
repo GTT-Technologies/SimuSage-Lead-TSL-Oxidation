@@ -3,7 +3,7 @@ PROGRAM SOURCE CODE FOR A SIMUSAGE MODEL OF THE TSL PROCESS
 
 The files in this repository correspond to the Simusage source code of the model described in the
 publication "A dynamic thermochemistry-based process model for lead smelting in the TSL process"
-(JSM, XXX-YYY-ZZZ). The computational model is able to describe the evolution in time of the phases formed
+(JSM, https://doi.org/10.1007/s40831-021-00387-7). The computational model is able to describe the evolution in time of the phases formed
 in the different regions of the reactor as a function of the material inputs and of the process parameters.
 The model is designed in such a way to simulate the reactions occurring in the oxidation stage of the TSL
 process as applied to the extraction of lead from a lead sulfide concentrate. The modelling approach is also
@@ -39,3 +39,18 @@ SGPS: SGTE pure substances database
 
 If you have access to Simusage and you need help in making the model work and/or in defining the *.cst 
 and *.ssd files please make contact with GTT-Technologies by email (info@gtt-technologies.de).
+
+License and Acknowledgments
+
+If you use SimusageTSL in your scientific work, please consider citing
+
+@article{rezende_dynamic_2021,
+	title = {A {Dynamic} {Thermochemistry}-{Based} {Process} {Model} for {Lead} {Smelting} in the {TSL} {Process}},
+	issn = {2199-3831},
+	url = {https://doi.org/10.1007/s40831-021-00387-7},
+	doi = {10.1007/s40831-021-00387-7},
+	journal = {Journal of Sustainable Metallurgy},
+	author = {Rezende, J. and van Schalkwyk, R. F. and Reuter, M. A. and to Baben, M.},
+	month = jun,
+	year = {2021},
+}
