@@ -42,7 +42,7 @@ and *.ssd files please make contact with GTT-Technologies by email (info@gtt-tec
 
 License and Acknowledgments
 
-SimuSageTSL is licensed under the GNU GPL v3.0 license.
+SimuSageTSL is licensed under the GNU AGPL v3.0 license.
 
 If you use SimusageTSL in your scientific work, please consider citing
 
